@@ -81599,7 +81599,7 @@ s=s[3]
 return Math.sqrt(r*r+q*q+p*p+s*s)}}
 A.L9.prototype={
 J(a){var s=null
-return new A.z8(new A.pj(s),"Web para la oca",A.aDQ(s,new A.tj(this.c,4279066054),s),!1,s)}}
+return new A.z8(new A.pj(s),"Herramienta del profesor para Ludifiked",A.aDQ(s,new A.tj(this.c,4279066054),s),!1,s)}}
 A.pk.prototype={
 a0(){var s=A.a([],t.s),r=A.a([],t.O4),q=$.au,p=(q==null?$.au=$.bE():q).bw(0,"[DEFAULT]")
 A.bb(p,$.bH(),!0)
