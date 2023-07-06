@@ -14,7 +14,7 @@ const RESOURCES = {
 "assets/lib/assets/questionsBasesAssets/situacionCocheBien.png": "79e92da732b640308b4a1f8d35cfdd09",
 "assets/lib/assets/questionsBasesAssets/situacionCocheMal.png": "238259039f0197befe9e9b7c09ab8ede",
 "assets/lib/assets/questionsBasesAssets/uretraResp.png": "93a5f3c1966916d676a0cebbe84834f8",
-"assets/NOTICES": "99ab803d96d1792fa41bb70fcf6d8661",
+"assets/NOTICES": "576ed7da2be364cafa094ff954650b06",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_dropzone_web/assets/flutter_dropzone.js": "0266ef445553f45f6e45344556cfd6fd",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
@@ -27,9 +27,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c7f044479ee48f4d0e5e4b39ba819380",
-"/": "c7f044479ee48f4d0e5e4b39ba819380",
-"main.dart.js": "9c5c572655272092d35278dde647d44c",
+"index.html": "48e20a39d725950e5653ffb442fd2d6a",
+"/": "48e20a39d725950e5653ffb442fd2d6a",
+"main.dart.js": "36e8eb7ea159624264a7d0351723ac1c",
 "manifest.json": "ade9e318df1d9d752891f92d2d229bbf",
 "version.json": "ca5cce385161157a0ee5691dd48e123a"
 };
